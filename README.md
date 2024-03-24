@@ -3,9 +3,9 @@
 
 - 👨‍💻 Portfolio: [https://jafari.dev](https://jafari.dev)
 
-- 💬 Talks about: **Software Engineering, JavaScript, TypeScript and ReactJS**
+- 💬 Talks about: **Software Engineering, Clean Architucture, TypeScript and ReactJS**
 
-- 📫 Email: **me@jafari.dev**
+- 📫 Email: **a99jafari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
